@@ -1,0 +1,13 @@
+/* CSS IMPORT FOR GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* GLOBAL STYLES FOR EVERY ELEMENT */
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', monospace;
+}
+
+/* TEXT STYLES */
+p {
+    font-size: 75px;
+}
