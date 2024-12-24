@@ -1,4 +1,7 @@
 *, *::before, *::after {
     box-sizing: border-box;
-    font-family: "Pacifico", serif;
+}
+
+body {
+    font-family: "Audiowide", sans-serif;
 }
